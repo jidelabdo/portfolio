@@ -20,7 +20,7 @@ A modern, responsive personal portfolio website showcasing my journey as a Compu
 ## 🚀 Quick Start
 
 ### View Live
-[Visit Portfolio](https://djidelabdocs50-pixel.github.io/portfolio)
+[Visit Portfolio](https://jidelabdo.github.io/portfolio)
 
 
 ## 🎯 Sections
@@ -62,10 +62,8 @@ A modern, responsive personal portfolio website showcasing my journey as a Compu
 
 ## 🔗 Live Projects Showcased
 
-1. **Password Strength Checker** - [View Live](https://djidelabdocs50-pixel.github.io/pstrength/)
-2. **CyberSec Toolkit** - [View Live](https://djidelabdocs50-pixel.github.io/cs-tool-kit/)
-3. **CipherArena-CTF Platform** - [View Live](https://djidelabdocs50-pixel.github.io/cipher-arana/)
-4. **ThreatScan-AI Threat Analyzer** - [View Live](https://djidelabdocs50-pixel.github.io/portfolio/threat-analyzer.html)
+1. **CipherArena-CTF Platform** - [View Live](https://jidelabdo.github.io/cipher-arana/)
+
 
 ## 📞 Connect With Me
 
@@ -85,6 +83,4 @@ A modern, responsive personal portfolio website showcasing my journey as a Compu
 
 ---
 
-**Built with ❤️ by Abdo**
-
-*Freshman CS Student | Web Development Enthusiast | Future Cybersecurity Expert*
+*2nd year CS Student | Web Developer | Future Cybersecurity Expert*
